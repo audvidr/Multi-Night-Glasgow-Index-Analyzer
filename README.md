@@ -1,5 +1,3 @@
-https://audvidr.github.io/Multi-Night-Glasgow-Index-Analyzer/multi_night_analyzer.html
-
 # Multi-Night Glasgow Index Analyzer
 
 A comprehensive tool for analyzing multiple nights of ResMed PAP data to calculate weighted averages of Glasgow Index components and track trends over time. Now includes complete machine settings analysis including pressure data extraction.
